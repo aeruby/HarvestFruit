@@ -1,4 +1,4 @@
-# HarvestFruit: Deep Q-Learning Agent
+# HarvestFruit
 
 # Overview:
  The gardener learns to navigate a 5x5 garden to harvest fruits efficiently using Deep Q-Learning and a neural network, a simple AI project where we train a gardener to move around a small garden and harvest as many fruits as possible within a limited number of steps. 
